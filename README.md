@@ -1,8 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, thank you for visiting this page!
 
-I am a Full-Stack Developer. 
-
-I had my first lessons of HTML and CSS when studying Image and Sound Design at the university. After that, I continued programming as a hobby and this year I quit my day job as an event planner to become a professional programmer by enrolling in a full-time Coding Bootcamp (at Plataforma 5).
+I had my first lessons of HTML and CSS when studying Image and Sound Design at the university. After that, I continued programming as a hobby and this year I quit my day job as an event planner to become a Full-Stack Developer by enrolling in a full-time Coding Bootcamp (at Plataforma 5).
 
 Since then I have been coding day and night to learn as much as I can, and **I AM LOVING IT!** 🚀
 

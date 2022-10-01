@@ -4,7 +4,7 @@ I had my first lessons of HTML and CSS while studying Image and Sound Design at 
 
 Since then I have been coding day and night to learn as much as I can, and **I AM LOVING IT!** 🚀
 
-#OPENTOWORK [Linkedin](https://www.linkedin.com/in/guillermo-federico-neuberger/?locale=en_US)
+ [Linkedin](https://www.linkedin.com/in/guillermo-federico-neuberger/?locale=en_US)
 
 ---
 
